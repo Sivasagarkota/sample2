@@ -1,3 +1,6 @@
-console.log('hello world');
-console.log("2nd line");
-console.log("3rd line");
+function number(){
+    for(let i = 0; i < 6; i++){
+        console.log(i+" ");
+    }
+}
+number();
