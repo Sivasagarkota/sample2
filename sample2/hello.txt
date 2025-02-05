@@ -2,3 +2,8 @@ Hello world
 The marine book was written by joseph
 Next week is holiday
 The bread costs 20 dollar
+
+the grocerry items to bring on 6th:
+    1. pen
+    2. chalk
+    3. book
