@@ -14,7 +14,11 @@ the grocerry items to bring on 7th:
     6. shirt : 20
 
 the grocerry items to bring on 7th:
+<<<<<<< HEAD
     7. asdf : 50
+=======
+    7. asdf : 30
+>>>>>>> 38858c59a39c8a0de34989bac89108eecb4e7f7b
     8. qwer : 20
     
 the grocerry items to bring on 8th:
@@ -24,6 +28,3 @@ the grocerry items to bring on 8th:
 the grocerry items to bring on 9th:
     11. vegetables
     12. fruits
-
-total items are 12
-cost is 400
