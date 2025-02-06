@@ -9,11 +9,15 @@ the grocerry items to bring on 6th:
     3. book : 50
 
 the grocerry items to bring on 7th:
-    4. scale
-    5. color
-    6. shirt
+    4. scale :30
+    5. color : 80
+    6. shirt : 20
 
 the grocerry items to bring on 7th:
     7. asdf
     8. qwer
     
+
+the grocerry items to bring on 8th:
+    9.asdf
+    10.rewq
