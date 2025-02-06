@@ -14,8 +14,8 @@ the grocerry items to bring on 7th:
     6. shirt : 20
 
 the grocerry items to bring on 7th:
-    7. asdf
-    8. qwer
+    7. asdf : 30
+    8. qwer : 20
     
 
 the grocerry items to bring on 8th:
