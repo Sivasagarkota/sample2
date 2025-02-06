@@ -26,3 +26,4 @@ the grocerry items to bring on 9th:
     12. fruits
 
 total items are 12
+cost is 400
