@@ -17,7 +17,6 @@ the grocerry items to bring on 7th:
     7. asdf : 50
     8. qwer : 20
     
-
 the grocerry items to bring on 8th:
     9.asdf
     10.rewq
